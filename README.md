@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Maria Eduarda 👋</h1>
 
 <p align="center">
-  Computer Science @ <strong>Insper</strong> · IT & AI Intern @ <strong>Barsi Investimentos (XP)</strong><br/>
-  Building things at the intersection of <strong>finance</strong> and <strong>artificial intelligence</strong>
+  CS + Economics student @ <strong>Insper</strong> · Tech Intern @ <strong>Grupo Barsi</strong><br/>
+  Building things at the intersection of <strong>finance</strong>, <strong>data</strong>, and <strong>AI</strong>
 </p>
 
 ---
 
 ### About me
 
-CS student who enjoys bridging the gap between technical and non-technical teams.
+CS and Economics student who enjoys bridging the gap between technical and non-technical teams.
 I like automating repetitive work, structuring messy problems, and making tech actually useful in business contexts.
 
-Currently working with AI integration, internal tooling, and process automation in the investment advisory space.
+At Grupo Barsi, I've built internal systems from scratch: a trader activity tracker, a wealth succession tool, and a personal development (PDI) platform — all focused on data organization and decision support.
 
 ---
 
@@ -21,9 +21,20 @@ Currently working with AI integration, internal tooling, and process automation 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **AI & Integrations**
 
@@ -31,19 +42,22 @@ Currently working with AI integration, internal tooling, and process automation 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
 
-**Data & Tools**
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+### 🏆 Highlights
+
+- 🥇 **1st place** — Hackathon Íons Energia (energy tech solution, evaluated on innovation, feasibility, and impact)
+- 🥈 **Silver Medal** — OBMEP (Brazilian Math Olympiad)
+- 🥈 **Silver Medal** — Olimpíada Elon Lages Lima de Matemática
+- 🥈 **Silver Medal** — Canguru de Matemática Internacional 2024
 
 ---
 
 ### 📌 What I'm up to
 
-- 🤖 Applying LLMs to real workflows at a fintech-adjacent investment office
-- 📊 Exploring data pipelines and financial data automation
-- 🎓 Deepening CS fundamentals: algorithms, architecture, reinforcement learning
+- 🤖 Applying LLMs to real internal workflows at a fintech-adjacent investment office
+- 📊 Exploring financial data automation and quantitative modeling
+- 🎓 Deepening CS + Economics fundamentals simultaneously
 
 ---
 
